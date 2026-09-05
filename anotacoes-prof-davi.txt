@@ -1,1 +1,1 @@
-Anotações trabalho do Professor Davi
+O PowerShell atua como um ambiente de interface de linha de comando (CLI) e automação no ecossistema Windows, permitindo a gestão e a navegação direta pelo sistema de arquivos por meio de comandos estruturados. Quando integrado ao Git, ele possibilita o controle de versão local das aplicações, viabilizando o registro do histórico de alterações do código (commits), a criação de ramificações (branches) para testes e o gerenciamento do ciclo de vida dos projetos em ambiente de desenvolvimento.
