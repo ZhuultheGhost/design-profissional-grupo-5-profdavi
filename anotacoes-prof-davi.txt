@@ -1,8 +1,7 @@
 Gabriel dos Santos Siva
 
 Anotações trabalho do Professor Davi
-<<<<<<< HEAD
 linha de teste
-=======
-linha de teste
->>>>>>> 17fc65a065ac24433d163443d3177e863467d931
+
+segunda linha de teste depois do erro que deu
+
