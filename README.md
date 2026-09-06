@@ -8,7 +8,7 @@ Repositório criado para atividade prática de Git e GitHub.
 
 Integrantes do grupo:
 
-\- Nome 1
+\- Kaique Souza
 
 \- Nome 2
 
