@@ -1,2 +1,3 @@
-Anotações trabalho do Professor Davi
-linha adicionada por Vinicius
+Git é um sistema usado para controlar as versões de um projeto, permitindo acompanhar as alterações feitas no código e voltar para versões anteriores quando necessário.
+
+GitHub é uma plataforma online que permite armazenar repositórios Git na nuvem, facilitando o compartilhamento e o trabalho em equipe. Com Git e GitHub, é possível organizar melhor o projeto e manter um histórico das alterações.
