@@ -8,17 +8,17 @@ Repositório criado para atividade prática de Git e GitHub.
 
 Integrantes do grupo:
 
-\- Nome 1
+\- Nome 1: Gabriel dos Santos Silva
 
-\- Nome 2
+\- Nome 2: Guilherme Mello Sant' Anna
 
-\- Nome 3
+\- Nome 3: Kaíque Souza Feliciano
 
-\- Nome 4
+\- Nome 4: Lucas Misael Dias
 
-\- Nome 5
+\- Nome 5: Luiza Fernandes Zagatto Pinto
 
-\- Nome 6
+\- Nome 6: Vinícius Gabriel Feliciano
 
 
 
