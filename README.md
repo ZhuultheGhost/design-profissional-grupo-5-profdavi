@@ -60,3 +60,6 @@ Com base nas atividades práticas ministradas pelo Prof. Davi (Atividades Básic
 *   **Gestão de Issues**: O repositório deve conter no mínimo **2 Issues abertas**, listando e detalhando com clareza melhorias futuras propostas para o sistema ou correções identificadas.
 *   **Gerenciamento de Releases (Tags)**: Uma vez que todos os Pull Requests tenham sido devidamente testados, aprovados e mesclados ao `main`, cria-se uma tag de versão `v1.0` no commit final do histórico, publicando-a no GitHub.
 *   **Higienização de Branches**: Após o término do fluxo de integração e entrega da versão estável, todos os branches de trabalho remoto e local que já foram integrados devem ser excluídos para manter o repositório limpo e organizado.
+## Contribuição da Luiza
+
+Alteração realizada para a atividade de Design Profissional — Nível Avançado.
