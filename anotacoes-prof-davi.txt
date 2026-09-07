@@ -5,3 +5,10 @@ O GitHub é uma plataforma online que utiliza o Git para armazenar projetos em r
 No dia a dia, o desenvolvedor pode utilizar comandos como git add, git commit, git push e git pull. O git add prepara os arquivos modificados, o git commit registra as alterações no histórico, o git push envia as alterações para o GitHub e o git pull baixa as atualizações feitas no repositório remoto.
 
 Dessa forma, o Git e o GitHub ajudam a manter os projetos mais organizados, facilitam o trabalho em equipe e permitem ter um histórico das alterações realizadas no código.
+O fluxo diário de trabalho com o Git e o GitHub baseia-se em um ciclo contínuo de sincronização e salvamento do código. Após realizar alterações em um arquivo no seu ambiente local, o desenvolvedor utiliza o comando git add para preparar as modificações, aplicando em seguida um git commit acompanhado de uma mensagem descritiva para registrar o estado do projeto no histórico. Por fim, o comando git push envia essas alterações locais diretamente para o repositório remoto na nuvem, enquanto o git pull serve para baixar atualizações feitas por outros colaboradores, garantindo que a equipe inteira trabalhe sempre com a versão mais recente do sistema. Assim, fica mais fácil organizar o projeto, acompanhar as mudanças e trabalhar em equipe sem perder as versões anteriores do código.
+Comandos Git estudados:
+- git clone
+- git status
+- git add
+- git commit
+- git push
