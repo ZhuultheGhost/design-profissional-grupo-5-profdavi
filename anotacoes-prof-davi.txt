@@ -1,3 +1,10 @@
+Gabriel dos Santos Siva
+
+Anotações trabalho do Professor Davi
+linha de teste
+
+segunda linha de teste depois do erro que deu
+
 O Git é uma ferramenta utilizada para controlar as versões de um projeto, principalmente durante o desenvolvimento de sistemas e programas. Ele permite registrar as alterações feitas nos arquivos ao longo do tempo, facilitando o acompanhamento do desenvolvimento e possibilitando voltar para versões anteriores caso algum problema aconteça.
 
 O GitHub é uma plataforma online que utiliza o Git para armazenar projetos em repositórios na nuvem. Ele facilita o compartilhamento dos códigos e o trabalho em equipe, permitindo que várias pessoas trabalhem no mesmo projeto e acompanhem as alterações realizadas.
